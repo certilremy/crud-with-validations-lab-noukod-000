@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe SongsController, type: :controller do
+.describe SongsController, type: :controller do
   let(:valid_attributes) do
     {
       title: "Talisman",
